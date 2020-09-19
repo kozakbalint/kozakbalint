@@ -1,5 +1,5 @@
 ## Hello there! 👋
-My names is Bálint Kozák and I'm a computer sience students. I'm from Hungary and living in Debrecen.
+My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart András Gépipari és Informatikai Technikum](https://www.dszcmechwart.hu/). I'm from Hungary and living in Debrecen.
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.kozakbalint.vercel.app/api/spotify)](https://open.spotify.com/user/kozak.balint)
