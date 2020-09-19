@@ -4,7 +4,10 @@ My names is Bálint Kozák and I'm a computer sience students. I'm from Hungary 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.kozakbalint.vercel.app/api/spotify)](https://open.spotify.com/user/kozak.balint)
 
+### Recent Activity :zap:
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ### Connect with me:
 [<img align="left" alt="kozak_balint | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
