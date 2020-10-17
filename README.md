@@ -23,6 +23,6 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozakbalint&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Kozák's github stats](https://github-readme-stats.vercel.app/api?username=kozakbalint)](https://github.com/anuraghazra/github-readme-stats)
 [twitter]: https://twitter.com/kozak_balint
 [instagram]: https://instagram.com/balint_kozak
