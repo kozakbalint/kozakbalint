@@ -1,9 +1,8 @@
-## Hello there! 👋
+# Hello there! 👋
 My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart András Gépipari és Informatikai Technikum](https://www.dszcmechwart.hu/). I'm from Hungary and living in Debrecen.
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.kozakbalint.vercel.app/api/spotify)](https://open.spotify.com/user/kozak.balint)
-</br>
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)
@@ -17,9 +16,13 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 ![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=4EAA25)
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozakbalint&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozakbalint&layout=compact&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=kozakbalint&hide=stars&count_private=true&show_icons=true&theme=github_dark" />
+</a>
 </br>
 </br>
-[![Kozák's github stats](https://github-readme-stats.vercel.app/api?username=kozakbalint&hide=contribs,prs,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### Just a random meme:
+<img aling="right" height="400px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
