@@ -16,6 +16,7 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 ![](https://img.shields.io/badge/Code-JS-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu%20bash&logoColor=white&color=4EAA25)
 </br>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozakbalint&layout=compact&theme=github_dark" />
 </a>
