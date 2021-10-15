@@ -3,10 +3,6 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.kozakbalint.vercel.app/api/spotify)](https://open.spotify.com/user/kozak.balint)
-
-### Connect with me:
-[<img align="left" alt="kozak_balint | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="balint_kozak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
 
 ### Languages and Tools:
@@ -27,5 +23,3 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 </br>
 [![Kozák's github stats](https://github-readme-stats.vercel.app/api?username=kozakbalint&hide=contribs,prs,stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/kozak_balint
-[instagram]: https://instagram.com/balint_kozak
