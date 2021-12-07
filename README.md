@@ -25,5 +25,5 @@ My names is Bálint Kozák and I'm a computer science student at [DSZC Mechwart 
 </a>
 </br>
 </br>
-### Just a random meme:
+
 <img aling="right" height="400px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
